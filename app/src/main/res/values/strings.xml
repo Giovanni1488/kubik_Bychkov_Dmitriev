@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">kubik_Bychkov_Dmitriev</string>
+    <string name="default_text">Нажмите кнопку для броска кубика</string>
+    <string name="roll_button">Бросить кубик</string>
+
+    <!-- Позиции Dota 2 -->
+    <string name="position_safelane">Позиция 1: Safe Lane (Керри/Легкая)</string>
+    <string name="position_midlane">Позиция 2: Mid Lane (Мидер/Центр)</string>
+    <string name="position_offlane">Позиция 3: Off Lane (Сложная)</string>
+    <string name="position_softsupport">Позиция 4: Soft Support (Поддержка)</string>
+    <string name="position_hardsupport">Позиция 5: Hard Support (Полная поддержка)</string>
+    <string name="position_jungler">Jungler (Лесник)</string>
+</resources>
